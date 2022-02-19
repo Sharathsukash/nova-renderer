@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/NovaMods/nova-renderer/actions">
+  <a href="https://github.com/Sharathsukash/nova-renderer/actions">
     <img alt="Github Actions" src="https://github.com/NovaMods/nova-renderer/workflows/CI/badge.svg?branch=master">
   </a>
 
